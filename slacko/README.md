@@ -1,0 +1,14 @@
+## Cloud Automation
+Atividades de conclução de modulo provisionando infraestrutura com Terraform.
+
+---
+
+- Provisionamento do aplicativo slacko  
+https://github.com/nathanaelassis/learn-IaC-Terraform
+
+---
+```bash
+terraform init
+terraform plan
+terraform apply
+```
